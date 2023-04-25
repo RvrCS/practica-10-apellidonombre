@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "39195720838-587joto18lq3tcftia15ruf5o0fkutqi.apps.googleusercontent.com",
+          "client_id": "39195720838-ss0jhhpfiho4rk4urf07meeoo9fub7m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "torres.river.firebaselogin",
+            "certificate_hash": "56ae3c72d28dd1fcd34fde4fa9b3071d8eed6c86"
+          }
+        },
+        {
+          "client_id": "39195720838-cpt4ufhfojt7ktlogas1b4n6k20v33je.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
