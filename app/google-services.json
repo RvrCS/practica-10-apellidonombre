@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39195720838",
+    "project_id": "fir-login-1d322",
+    "storage_bucket": "fir-login-1d322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39195720838:android:a8af3101338ccb33f22507",
+        "android_client_info": {
+          "package_name": "torres.river.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39195720838-587joto18lq3tcftia15ruf5o0fkutqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ruks73PayGgdKkDTD6MNVsZYmKGa54E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39195720838-587joto18lq3tcftia15ruf5o0fkutqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
